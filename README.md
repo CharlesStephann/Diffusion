@@ -13,7 +13,13 @@ mais cohérents, prouvant ainsi que le réseau a appris la structure statistique
 (forme, palette de couleurs) malgré la simplification du réseau.
 
 Voici le contenu des différents fichiers du projet :
-* [`projet_diffusion.ipynb`](`./projet_diffusion.ipynb`) : Code du projet, commentaires expliquant ce qui est réalisé à chaque étape.
+* [`projet_diffusion.ipynb`](`./projet_diffusion.ipynb`) : Code du projet, commentaires pour chaque étape et illustrations des résultats obtenus.
 * [`lien_datasets.txt`](`./lien_datasets.txt`) : Lien vers le jeu de données utilisé pour ce projet. 
 * `docs` : dossier contenant la documentation, notamment le le rapport du projet, son sujet et les slides du cours sur la diffusion.
 * `figures` : dossier contenant les images illustrant le projet : les sprites inédits générés par le modèle, les sprites fournis par le dataset sur lequel j'ai appliqué un bruit.
+
+Exécution rapide:
+
+1. Installer les dépendances:
+   ```pip install -r requirements.txt```
+2. Utiliser le notebook [`projet_diffusion.ipynb`](`./projet_diffusion.ipynb`) pour avoir la démonstration du projet, avec des illustrations des résultats.
