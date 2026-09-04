@@ -24,4 +24,4 @@ Exécution rapide:
    ```bash
    pip install -r requirements.txt
    ```
-3. Utiliser le notebook [`projet_diffusion.ipynb`](./projet_diffusion.ipynb) pour avoir la démonstration du projet, avec des illustrations des résultats.
+2. Utiliser le notebook [`projet_diffusion.ipynb`](./projet_diffusion.ipynb) pour avoir la démonstration du projet, avec des illustrations du bruitage réalisé et des sprites inédits générés par le modèle.
