@@ -21,5 +21,7 @@ Voici le contenu des différents fichiers du projet :
 Exécution rapide:
 
 1. Installer les dépendances:
-   ```pip install -r requirements.txt```
-2. Utiliser le notebook [`projet_diffusion.ipynb`](`./projet_diffusion.ipynb`) pour avoir la démonstration du projet, avec des illustrations des résultats.
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Utiliser le notebook [`projet_diffusion.ipynb`](`./projet_diffusion.ipynb`) pour avoir la démonstration du projet, avec des illustrations des résultats.
